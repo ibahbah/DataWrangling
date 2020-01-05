@@ -707,8 +707,4 @@ df.to_csv('clean_df.csv')
 
 <h1>Thank you for completing this notebook</h1>
 
-<div class="alert alert-block alert-info" style="margin-top: 20px">
-
-    <p><a href="https://cocl.us/corsera_da0101en_notebook_bottom"><img src="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/Images/BottomAd.png" width="750" align="center"></a></p>
-</div>
 
